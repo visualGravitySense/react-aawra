@@ -1,0 +1,52 @@
+.container {
+    background-color: #f0f4f8; /* светлый фон для контейнера */
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  h2 {
+    color: #d36e9a; /* пастельный розовый для заголовка */
+    font-size: 2.5rem;
+  }
+  
+  h3 {
+    color: #333; /* темный текст для подзаголовков */
+    font-size: 1.8rem;
+    margin-top: 1.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  .card {
+    border: none; /* убираем рамки карточек */
+    border-radius: 8px;
+    transition: transform 0.2s; /* эффект увеличения при наведении */
+  }
+  
+  .card:hover {
+    transform: translateY(-5px);
+  }
+  
+  .card-img-top {
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+  }
+  
+  .card-title {
+    color: #d36e9a; /* пастельный розовый для заголовков курсов */
+  }
+  
+  .card-text {
+    color: #555; /* серый текст для описаний */
+  }
+  
+  .btn-primary {
+    background-color: #d36e9a; /* пастельный розовый */
+    border: none;
+    border-radius: 20px; /* закругленные кнопки */
+  }
+  
+  .btn-primary:hover {
+    background-color: #c15a84; /* темнее на ховере */
+  }
+  
