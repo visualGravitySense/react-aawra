@@ -1,7 +1,3 @@
-Вот пример плана для создания дизайна и проекта, который можно добавить в файл `README.md` на GitHub.
-
----
-
 # Beauty Courses Project
 
 This project is a React application designed to list and showcase beauty courses from various salons. The design is inspired by modern, minimalist aesthetics with a focus on user-friendly navigation and clean UI.
